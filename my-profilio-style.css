@@ -1,0 +1,15 @@
+#body{
+text-align: center;
+background-color: #ffffcc;    
+}
+.head{
+  color: blue;
+}
+#img{
+  width: 100%;
+  max-width: 800px;
+  height: 300px;
+}
+#last{
+  margin-bottom: 50px;
+}
