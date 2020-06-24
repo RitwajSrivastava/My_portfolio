@@ -65,18 +65,6 @@ transition: .5s;
   color: orange;
   font-size: 20px;
 }
-#diff{
-  position: absolute;
-  top: 180px;
-  box-sizing: border-box;
-  margin-top: 10px;
-  margin-bottom: 30px;
-  background-color: #000099;
-  background: linear-gradient(#0000e6,#000099);
-  height: 30px;
-  width: 22.8%;
-  transform: skewY(-3deg);
-}
 #intro{
   width: 23%;
   float: left;
